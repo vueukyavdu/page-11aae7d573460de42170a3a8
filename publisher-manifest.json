@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "0287fff7b66aedcb6b404c48",
+  "owner": "vueukyavdu",
+  "repo": "page-11aae7d573460de42170a3a8",
+  "title": "绝影飞驰",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "11aae7d573460de42170a3a8",
+      "a": "绝影飞驰",
+      "b": "",
+      "entity": "绝影飞驰",
+      "brand": "绝影飞驰",
+      "separator": "",
+      "path": "index.html",
+      "hash": "95161aad67db83487f22f5765b2871888fcbf69a537f6a2dfe7013f8dd3fe869",
+      "content": {
+        "keyword1": "绝影飞驰",
+        "keyword2": "",
+        "primary_entity": "绝影飞驰",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "绝影飞驰提供高速稳定的VPN梯子与机场订阅服务，覆盖全球优质节点，支持流媒体解锁与游戏加速，多平台客户端官方下载，助您畅享跨境网络体验。",
+          "AI_DESCRIPTION": "绝影飞驰提供高速稳定的VPN梯子与机场订阅服务，覆盖全球优质节点，支持流媒体解锁与游戏加速，多平台客户端官方下载，助您畅享跨境网络体验。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}html{font-size:16px}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#FDF6F0;color:#2A2A2A;line-height:1.65;overflow-x:hidden}a{color:#D45A45;text-decoration:none}header{background:#FFF;border-bottom:1px solid #F0E4DC;padding:0.85rem 1rem} .nav{display:flex;flex-wrap:wrap;gap:0.7rem 1.15rem;align-items:center;max-width:1100px;margin:0 auto} .brand{font-weight:700;font-size:1.12rem;color:#C24A38} nav a{font-size:0.94rem;color:#444}main{max-width:1100px;margin:0 auto;padding:1.4rem 1rem 2.8rem}h1{font-size:1.72rem;color:#1A1A1A;margin-bottom:0.85rem;line-height:1.3}h2{font-size:1.32rem;color:#222;margin:1.8rem 0 0.75rem;padding-bottom:0.28rem;border-bottom:2px solid #E8C4B8}h3{font-size:1.08rem;margin:0.75rem 0 0.35rem;color:#333}p,li{margin-bottom:0.55rem;font-size:0.98rem}ul,ol{padding-left:1.25rem;margin-bottom:0.9rem}.intro{background:#FFF;padding:1.15rem;border-radius:10px;border:1px solid #F2E6DE;margin-bottom:0.9rem}.cards{display:flex;flex-wrap:wrap;gap:1rem;justify-content:center;margin:1.1rem 0}.card{background:#FFF;border:1px solid #EDD9D0;border-radius:10px;padding:1.2rem;flex:1 1 250px;max-width:340px}.card.featured{border:2px solid #E06B55;background:#FFF8F5}.badge{display:inline-block;background:#E06B55;color:#FFF;font-size:0.74rem;padding:0.12rem 0.48rem;border-radius:4px;margin-bottom:0.45rem}.price{font-size:1.38rem;font-weight:700;color:#C24A38;margin:0.35rem 0}.annual{font-size:0.84rem;color:#666;margin-bottom:0.7rem}.card ul{list-style:none;padding:0}.card li{padding:0.22rem 0 0.22rem 1.05rem;position:relative;font-size:0.92rem}.card li:before{content:\"•\";position:absolute;left:0;color:#E06B55}.cta{display:block;text-align:center;background:#E06B55;color:#FFF;padding:0.52rem;border-radius:6px;margin-top:0.75rem;font-weight:600}.scenes{display:flex;flex-wrap:wrap;gap:0.75rem}.scene{flex:1 1 200px;background:#FFF;padding:0.95rem;border-radius:8px;border:1px solid #F0E0D8}.nodes{display:flex;flex-wrap:wrap;gap:0.55rem;margin:0.7rem 0}.node{background:#FFF;padding:0.45rem 0.75rem;border-radius:6px;border:1px solid #EEDDD4;font-size:0.9rem}details{background:#FFF;border:1px solid #EDD9D0;border-radius:8px;margin-bottom:0.55rem;padding:0.65rem 0.95rem}summary{font-weight:600;color:#333}details p{margin:0.55rem 0 0;font-size:0.94rem;color:#444}.ad{background:#FFF3EE;border:1px dashed #E8B8A8;padding:0.75rem;text-align:center;margin:1.4rem 0;border-radius:8px;font-size:0.9rem;color:#5A3A32}footer{background:#3A2A26;color:#F5EBE6;padding:1.4rem 1rem;font-size:0.86rem}.footer-inner{max-width:1100px;margin:0 auto}.links{margin:0.7rem 0;display:flex;flex-wrap:wrap;gap:0.45rem 1rem}.links a{color:#F0C8B8}@media(max-width:640px){h1{font-size:1.42rem}.card{max-width:100%}.nav{justify-content:center}}</style><header><div class=\"nav\"><span class=\"brand\">绝影飞驰</span><nav><a href=\"#intro\">简介</a><a href=\"#scenarios\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#plans\">套餐对比</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a></nav></div></header><main><h1>绝影飞驰官方网站</h1><section id=\"intro\" class=\"intro\"><p>绝影飞驰是面向个人与团队的 VPN 梯子与机场订阅服务，专注高速稳定的网络加速。我们整合亚太与欧美优质线路，配合智能分流与多端客户端，帮助用户在流媒体、跨境办公、国际游戏与资料访问中保持低延迟与可持续连接。</p><p>作为绝影飞驰官网，本页集中介绍套餐差异、使用场景、导入步骤与客户端获取方式。订阅后即可在用户中心领取最新官方客户端与订阅地址，避免非官方渠道带来的兼容与安全问题。服务强调可预期的流量配额与设备数，便于按需选择基础、旗舰或团队方案。</p></section><section id=\"scenarios\"><h2>使用场景</h2><p>绝影飞驰机场适合需要跨境访问但又希望控制成本与设备数的用户。以下场景覆盖日常高频需求，旗舰版在流媒体解锁与游戏线路上更为完整。</p><div class=\"scenes\"><article class=\"scene\"><h3>海外流媒体</h3><p>观看国际影视与直播时选择原生解锁节点，减少卡顿与地区限制，旗舰及以上套餐覆盖更全平台。</p></article><article class=\"scene\"><h3>游戏加速</h3><p>通过 IPLC 专线优化国际服连接，降低抖动与丢包，适合对延迟敏感的对战与开放世界游戏。</p></article><article class=\"scene\"><h3>远程办公</h3><p>稳定访问海外协作套件、代码仓库与云桌面，团队版支持更多设备同时在线并提供定制路由。</p></article><article class=\"scene\"><h3>学习科研</h3><p>访问国际期刊、公开课与学术会议站点，普通线路即可满足浏览与文献下载。</p></article><article class=\"scene\"><h3>出行隐私</h3><p>在公共网络下启用加密通道，降低明文传输风险，移动端客户端支持后台保持连接。</p></article></div></section><section id=\"guide\"><h2>操作说明</h2><p>完成订阅后，整个流程可概括为「获取订阅 → 安装客户端 → 导入节点 → 选择线路」。以下步骤适用于绝影飞驰官方客户端以及兼容 Clash、Shadowrocket、Stash、Surge 等软件。</p><h3>订阅与导入</h3><ol><li>在套餐对比中选择基础版、旗舰版或团队版，按月或按年开通。</li><li>登录后复制专属订阅链接，妥善保存，勿公开分享以免流量被占用。</li><li>前往客户端下载说明，安装对应系统版本，或使用已有兼容客户端。</li><li>将订阅地址粘贴到客户端的订阅栏并更新，等待节点列表刷新。</li><li>根据目标网站或游戏选择延迟较低的节点，开启系统代理或 TUN 模式后即可访问。</li></ol><h3>使用建议</h3><p>流媒体优先选择标注解锁的原生节点；游戏与会议优先 IPLC；日常网页可使用普通线路以节省高峰带宽。定期在官网或用户中心检查客户端版本，超流量后将按套餐规则限速，升级即可恢复全速。</p></section><section id=\"plans\"><h2>套餐对比</h2><p>三档方案按流量、设备数与线路等级划分。旗舰版在原生流媒体、游戏专线与工单响应上更为均衡，适合大多数个人用户；团队版面向多设备与定制需求。</p><div class=\"cards\"><article class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><a class=\"cta\" href=\"#download\">前往订阅</a></article><article class=\"card featured\"><p class=\"badge\">推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><a class=\"cta\" href=\"#download\">前往订阅</a></article><article class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><a class=\"cta\" href=\"#download\">前往订阅</a></article></div></section><section id=\"nodes\"><h2>节点与网络表现</h2><p>绝影飞驰持续维护覆盖亚洲、北美与欧洲的节点池。亚洲线路侧重低延迟访问港台日韩新等地服务，欧美线路提供大带宽传输。旗舰版与团队版包含 IPLC 专线，适合游戏与实时音视频。高峰期通过调度降低拥塞，具体可用节点以订阅更新为准。</p><div class=\"nodes\"><span class=\"node\">香港</span><span class=\"node\">台湾</span><span class=\"node\">日本</span><span class=\"node\">韩国</span><span class=\"node\">新加坡</span><span class=\"node\">美国</span><span class=\"node\">德国</span><span class=\"node\">英国</span><span class=\"node\">IPLC 游戏</span></div><p>我们不承诺固定 IP 或无限速率，但会在套餐额度内尽量保持可连接性与合理延迟。官方身份以本站套餐说明与用户中心订单为准，客户端请仅通过官网指引获取。</p></section><section id=\"download\"><h2>客户端官方下载</h2><p>绝影飞驰提供 Windows、macOS 桌面客户端以及 Android、iOS 移动端支持，同时兼容主流订阅协议，可导入 Clash、Shadowrocket、Stash、Surge 与软路由。安装包与更新日志在订阅后的用户中心发布，请勿从不明来源下载以免证书或分流规则被篡改。</p><p>桌面端适合需要系统代理与分应用规则的用户；移动端注重后台保活与简易切换。路由器用户可将订阅直接填入支持的固件。若导入失败，请确认链接完整、客户端版本不过旧，并在常见问题中核对协议说明。</p><p><a href=\"#faq\">查看导入常见问题</a> · <a href=\"#plans\">返回套餐对比</a></p></section><div class=\"ad\">绝影飞驰官方加速服务：正版客户端与机场订阅同一入口获取，避免第三方镜像带来的节点失效与账号风险。</div><section id=\"faq\"><h2>常见问题</h2><details><summary>绝影飞驰是什么？和普通 VPN 有何不同？</summary><p>绝影飞驰是提供机场订阅与多端客户端的网络加速服务。用户按套餐获取流量与设备额度，通过订阅链接一键更新全球节点，而不仅是单一 App 内置线路。更适合需要 Clash 等工具、分应用代理以及流媒体解锁的用户。</p></details><details><summary>如何下载绝影飞驰客户端并开始使用？</summary><p>完成套餐订阅后进入用户中心，按系统下载 Windows、macOS、Android 或 iOS 安装包。也可将订阅地址导入已有兼容客户端。更新节点后选择延迟合适的线路并开启代理即可。官网仅提供指引，安装文件以用户中心最新版本为准。</p></details><details><summary>三个套餐该怎么选？流量用完会怎样？</summary><p>轻度浏览与少量视频可选基础版；需要完整流媒体解锁、游戏专线与五台设备建议旗舰版；多人共用或企业分流选择团队版。月度流量用尽后将限速而非立即停用，升级或等待下个计费周期可恢复套餐速率。</p></details><details><summary>是否支持 Netflix、Disney+ 等流媒体解锁？</summary><p>基础版覆盖部分热门平台；旗舰版与团队版提供全节点原生解锁策略，成功率与清晰度通常更稳。若某地区线路临时失效，切换同区域其他节点或等待订阅更新即可。解锁效果随平台策略变化，以实际连接为准。</p></details><details><summary>IPLC 专线适合哪些场景？普通线路够用吗？</summary><p>IPLC 更适合国际服游戏、实时会议与对抖动敏感的应用，延迟更平滑。网页浏览、邮件与普通视频使用标准节点即可，有助于把专线带宽留给高优先级任务。旗舰版已包含游戏向 IPLC 优化。</p></details><details><summary>支持哪些设备？团队如何共用？</summary><p>同一订阅可在电脑、手机、平板与部分路由器使用，受套餐设备数限制：基础 3 台、旗舰 5 台、团队 20 台。团队版可申请定制路由与专属客户经理，便于统一出口与审计。请勿把订阅链接发布到公开群组。</p></details><details><summary>节点连不上或速度慢时如何处理？</summary><p>先更新订阅并更换同区域节点，检查本地防火墙与系统时间。移动网络与公司网络可能干扰 UDP，可尝试 TCP 或不同端口配置。仍异常时通过旗舰优先工单或团队客户经理反馈，并附上客户端日志与节点名称。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"footer-inner\"><p>绝影飞驰官方网站 · 机场订阅与客户端下载入口。使用网络加速服务请遵守所在地法律法规与平台条款。</p><div class=\"links\"><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐</a><a href=\"#download\">官方下载</a><a href=\"#faq\">FAQ</a><a href=\"#\">网站地图</a><a href=\"#\">加速资讯</a><a href=\"#\">客户端教程</a><a href=\"#\">流媒体指南</a></div><p>友情链接仅作相关主题索引，全部指向本页锚点。广告位用于提示通过官网获取正版客户端。</p></div></footer>",
+          "hash": "62290c2e0082cc74ccc8d2f6a6f95326a75bb5a65f24d3339fbbf45d2bf66f27",
+          "seo": {
+            "title": "绝影飞驰官网 | VPN梯子网络加速器与机场订阅客户端下载",
+            "keywords": "绝影飞驰,绝影飞驰VPN,绝影飞驰机场,VPN梯子,网络加速器,机场订阅,客户端下载,官网下载,IPLC专线,流媒体解锁",
+            "description": "绝影飞驰提供高速稳定的VPN梯子与机场订阅服务，覆盖全球优质节点，支持流媒体解锁与游戏加速，多平台客户端官方下载，助您畅享跨境网络体验。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "npyza.cn",
+    "host": "p-d7273e4abc.npyza.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "npyza.cn",
+      "url": "https://npyza.cn/",
+      "label": "飞机TNT",
+      "apex": "npyza.cn",
+      "kind": null,
+      "identity": "qkhysdcbd/page-d46127e383fb6844f2f0fdce"
+    },
+    {
+      "host": "alcat.cn",
+      "url": "https://alcat.cn/",
+      "label": "绝影飞驰",
+      "apex": "alcat.cn",
+      "kind": null,
+      "identity": "uuasxs/page-d5ad9f1e9c2c7db80ce5b56b"
+    },
+    {
+      "host": "pqjkta.cn",
+      "url": "https://pqjkta.cn/",
+      "label": "绝影飞驰",
+      "apex": "pqjkta.cn",
+      "kind": null,
+      "identity": "wdykarp/page-09356408340cc193f4eb6bd5"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "a773f8aa3a1b11ea39d1c56fba409e40d2afe6b349e088f96bc219d81c091a85",
+    "sitemap.xml": "992995e59304376b820b961cda1d38f1eb938e975e2176e522301ce42f3843f7",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "da5bae95be54284c62a091436d1e2fb02ff8e48959c1b80e9b4ac924ef414154",
+    "robots.txt": "d21ec09dadef0540e7716903bf6ba8541d555532f581bc23ad1adb9664ba4c99",
+    "53f88665638fb40443e9a002e0341195.txt": "22df2c9e05774d8632fdbced8f63693f5107d735b2f9c27bc2ed3ab72bace021"
+  },
+  "revision": "be665add278f96a5175c0b05397a94b77bf52fc229a59cd5b8d3abbc6a3e7680"
+}
